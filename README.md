@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hello, I'm [Sannil Kadechkar!]👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Sannilk" /> </p>
 
-<!--
-**Sannilk/Sannilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sannil-kadechkar-1371a71b3/">
+  <img align="left" alt="Sannil's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Sannilk">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+<br/>
+
+
+
+- 🔭 I’m currently working in [Accenure].
+- 🌱 I’m currently learning more about Full Stack Web Development from Almabetter.
+- 🤔 I’m looking for help with career guidance.
+- 💬 Ask me about Full Stack Development or any tech related stuff.
+- 📫 How to reach me: [Linkedin - @Sannilkadechkar](https://www.linkedin.com/in/sannil-kadechkar-1371a71b3/) 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I would love to work with same minded people like me as a team.
+
+[![Linkedin: sannilkadechkar](https://img.shields.io/badge/-SannilKadechkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sannil-kadechkar-1371a71b3/)](https://www.linkedin.com/in/sannil-kadechkar-1371a71b3/)
+[![GitHub Sannilk](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Sannilk)
